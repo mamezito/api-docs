@@ -128,7 +128,7 @@ export const Sidebar: React.FunctionComponent = () => (
                 </Icon>
                 <span style={{ fontWeight: 600, paddingTop: "3px", letterSpacing: "-0.5px" }}>API</span>
             </a>
-            <VersionBadge version="1.0" />
+            <VersionBadge version="1.0.0" />
 
             <DynamicMobileToggle />
         </Home>
